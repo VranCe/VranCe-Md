@@ -5,7 +5,7 @@ A powerful, modular, and modern WhatsApp bot built for automation, utilities, an
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/VranCe/VranCe/main/image.png" alt="VranCe Md" width="500"/>
+<img src="https://avatars.githubusercontent.com/u/251610248?v=4" alt="VranCe Md" width="500"/>
 </p>
 
 ---
@@ -40,6 +40,6 @@ Built with flexibility and scalability in mind, this bot is suitable for persona
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/VranCe/VranCe-Md.git
-cd VranCe
-npm install
+$ git clone https://github.com/VranCe/VranCe-Md.git
+$ cd VranCe-Md
+$ npm install
