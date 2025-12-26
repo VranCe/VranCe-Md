@@ -1,0 +1,23 @@
+{
+  "name": "simple-script",
+  "version": "1.0.0",
+  "description": "Simple Script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lisence Author",
+  "license": "MIT",
+  "dependencies": {
+    "awesome-phonenumber": "^2.64.0",
+    "baileys": "github:VranCe/bail",
+    "chalk": "^4.1.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "jimp": "^0.16.13",
+    "moment-timezone": "^0.5.46",
+    "node-fetch": "^2.6.9",
+    "node-webpmux": "^3.1.0",
+    "pino": "^8.3.0"
+  }
+}
